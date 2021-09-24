@@ -6,8 +6,6 @@
 
 [Flutter](https://flutter.dev/) app to check your [Asianet Broadband](https://asianetbroadband.in/) usage.
 
-Appification of this [gist](https://gist.github.com/aruncveli/9a3f81f195b2ca2371026b57a92401e3).
-
 ### Demo (Android)
 
 ![](abb.gif)
